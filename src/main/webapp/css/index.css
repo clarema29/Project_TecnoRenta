@@ -1,0 +1,15 @@
+.bg-login-imagen{
+    background: url("../img/logo.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 500px;
+    background-repeat: no-repeat;
+    border: 0px;
+    
+}
+
+.sizeDiv{
+    width: 40vw;
+}
+
+
